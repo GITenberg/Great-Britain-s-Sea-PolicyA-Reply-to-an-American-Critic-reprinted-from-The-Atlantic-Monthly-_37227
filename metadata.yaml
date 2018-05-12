@@ -1,0 +1,33 @@
+_repo: Great-Britain-s-Sea-PolicyA-Reply-to-an-American-Critic-reprinted-from-The-Atlantic-Monthly-_37227
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aime
+    - Murray, George Gilbert Aimé
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+description: ''
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37227'
+  lccn: '17025265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Bullard, Arthur, 1879-1925. Our relations with Great Britain'
+- !lcsh 'World War, 1914-1918 -- Blockades'
+title: "Great Britain's Sea Policy\r\nA Reply to an American Critic, reprinted from\
+  \ 'The Atlantic Monthly'"
+url: http://www.gutenberg.org/ebooks/37227
